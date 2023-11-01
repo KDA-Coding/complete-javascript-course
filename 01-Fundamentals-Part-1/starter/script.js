@@ -30,10 +30,23 @@ console.log(typeof year);
 //Bug in JavaScript. Not corrected for Legacy reasons. Should return 'null' but returns 'object'
 console.log(typeof null);
 
-*/
+
 
 let age = 30;
 age = 31;
 
 const birthYear = 1990;
 birthYear = 1991;
+
+*/
+
+let age = 30;
+age =  31;
+
+const birthYear = 1998;
+// birthYear = 1997;
+
+// const job; 
+
+var job = 'programmer';
+job = 'game developer';
