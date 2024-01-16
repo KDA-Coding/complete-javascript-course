@@ -40,6 +40,7 @@ birthYear = 1991;
 
 */
 
+/*
 let age = 30;
 age =  31;
 
@@ -50,3 +51,25 @@ const birthYear = 1998;
 
 var job = 'programmer';
 job = 'game developer';
+
+lastName = 'Schmedtman';
+console.log(lastName);
+
+
+const now = 2023;
+
+const ageKirk = now - 1998;
+const ageSarah = now - 2002;
+
+console.log(ageSarah, ageKirk);
+
+console.log(ageKirk * 2, ageKirk / 10, 2 ** 3 );
+
+const firstName = 'Kirk';
+const lastName = 'Allgeyer';
+console.log(firstName + lastName);
+*/
+
+const ageJonas = 2037 - 1991;
+
+console.log(ageJonas);
